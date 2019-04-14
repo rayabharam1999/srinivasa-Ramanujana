@@ -1,0 +1,5 @@
+MATLAB is a matrix laboratory developed by MathWorks.
+Although MATLAB is intended primarily for numerical computing, an optional toolbox uses the MuPAD symbolic engine, allowing access to symbolic computing abilities.
+An additional package, Simulink, adds graphical multi-domain simulation and model-based design for dynamic and embedded systems.
+Variables are defined using the assignment operator, =. MATLAB is a weakly typed programming language because types are implicitly converted.[12] It is an inferred typed language because 
+variables can be assigned without declaring their type, except if they are to be treated as symbolic objects,[13] and that their type can change. Values can come from constants, from computation involving values of other variables, or from the output of a function
